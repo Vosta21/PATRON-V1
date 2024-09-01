@@ -23,8 +23,8 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
+global.owner = ['27680660202'];
+global.ownMain = '27680660202';
 global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
@@ -79,11 +79,11 @@ global.decor = {
 // Response
 global.mess = {
   ingroup: 'This feature can only be used in groups.',
-  admin: 'This feature is specifically for group admins🖕.',
-  owner: 'You are not the owner🫵😡.',
+  admin: 'This feature is specifically for group admins.',
+  owner: 'You are not the owner🫵.',
   premium: 'You are not a premium user.',
   seller: 'This feature can only be used by resellers and the owner.',
-  usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
+  usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 🫵',
   wait: '*processing♻️ chillax....♻️*',
   success: '*Successful* 😈💯.....',
   bugrespon: '♻️😈😭 *Sent target to the afterlife.....* 🦠🕷️👾'
